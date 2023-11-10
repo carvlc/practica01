@@ -8,7 +8,7 @@ public class BallBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        speedZ = 2;
+        speedZ = 6;
     }
 
     // Update is called once per frame
