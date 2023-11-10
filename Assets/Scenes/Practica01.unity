@@ -508,7 +508,7 @@ MonoBehaviour:
   initTime: 0
   repeatTime: 2
   speedZ: 2
-  limitNumberEnemies: 3
+  limitNumberEnemies: 5
 --- !u!4 &1305523358
 Transform:
   m_ObjectHideFlags: 0
