@@ -20,7 +20,7 @@ public class Generador02Behaviour : MonoBehaviour
 
     private void Update()
     {
-        MoveGenerator01();
+        MoveGenerator02();
     }
 
     public void GenerateEnemy02()
@@ -38,7 +38,7 @@ public class Generador02Behaviour : MonoBehaviour
 
     }
 
-    public void MoveGenerator01()
+    public void MoveGenerator02()
     {
         if (transform.position.z < -4.5f || transform.position.z > 4.5f)
         {
