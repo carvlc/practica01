@@ -508,7 +508,7 @@ MonoBehaviour:
   initTime: 0
   repeatTime: 2
   speedZ: 2
-  limitNumberEnemies: 3
+  limitNumberEnemies: 5
 --- !u!4 &1305523358
 Transform:
   m_ObjectHideFlags: 0
@@ -518,7 +518,7 @@ Transform:
   m_GameObject: {fileID: 1305523356}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 4.15, y: 0.54, z: 4.23}
+  m_LocalPosition: {x: -4.08, y: 0.54, z: 4.23}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
