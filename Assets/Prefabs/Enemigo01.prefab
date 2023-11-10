@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5119428768043549292}
   - component: {fileID: 3488488374441228065}
   - component: {fileID: 26634739362899938}
+  - component: {fileID: 3598912831006264374}
   m_Layer: 0
   m_Name: Enemigo01
   m_TagString: Untagged
@@ -120,3 +121,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyBullet: {fileID: 7229395229796714740, guid: e44bbdae0526dcb41a2cc1d3e1403209, type: 3}
   enemyType: 1
+--- !u!114 &3598912831006264374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716320988021559411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c88b3739f58f1f4ea81d15aba82ba87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
