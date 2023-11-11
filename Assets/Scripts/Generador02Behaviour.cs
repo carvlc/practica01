@@ -29,13 +29,8 @@ public class Generador02Behaviour : MonoBehaviour
         if (enemyCounter < limitNumberEnemies)
         {
             Instantiate(enemy02, transform.position, transform.rotation);
+            enemyCounter +=1;
         }
-        // este if es para que la variable enemyCounter no se siga incrementando despues de alcanzar el numbero limite
-        if (enemyCounter < limitNumberEnemies)
-        {
-            enemyCounter += 1;
-        }
-
     }
 
     public void MoveGenerator02()
